@@ -1,0 +1,28 @@
+body{
+    width: 100vw;
+    height: 100vh;
+   
+}
+    .login{
+        width: 20rem;
+        height: 20rem;
+        border: 1px solid;
+        border-radius: 2rem;
+        background-color: rgb(158, 18, 173);
+        box-shadow: 1px 1px 2px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+          margin-top: 8rem;
+          margin-left: 40rem;       
+ 
+        .btn{
+            width: 6rem;
+            height: 1.5rem;
+            background-color: rgb(240, 230, 230);
+            color: black;
+           
+        }
+
+    }
